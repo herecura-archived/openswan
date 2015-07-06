@@ -1,7 +1,7 @@
 # Contributor: xjpvictor Huang <ke [AT] xjpvictor [DOT] info>
 pkgname=openswan
 pkgver=2.6.39
-pkgrel=2
+pkgrel=3
 pkgdesc="Open Source implementation of IPsec for the Linux operating system"
 url="http://www.openswan.org"
 license=('GPL' 'custom')
